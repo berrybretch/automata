@@ -23,7 +23,8 @@ def naive_convolve(cnp.ndarray grid, int N):
                 if temp == 3:
                     new_array[i,j] = 1
     return new_array
-    
+
+
     
 
 
